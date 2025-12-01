@@ -1,0 +1,2 @@
+# Placeholder - Replace with actual 192x192 icon
+# For now, using a simple placeholder file
